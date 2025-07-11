@@ -1,0 +1,48 @@
+/* stylelint-disable selector-class-pattern */
+.furniture,
+.marketplace {
+  --cz-aspect-ratio: calc(398 / 773 * 100%);
+  max-width: 773px;
+}
+.grocery,
+.singleStore {
+  --cz-aspect-ratio: calc(398 / 627 * 100%);
+  max-width: 627px;
+}
+.electronics {
+  --cz-aspect-ratio: calc(398 / 540 * 100%);
+  max-width: 540px;
+}
+.fashion1 {
+  --cz-aspect-ratio: calc(398 / 370 * 100%);
+  max-width: 370px;
+}
+.fashion2 {
+  --cz-aspect-ratio: calc(398 / 466 * 100%);
+  max-width: 466px;
+}
+@media (max-width: 767px) {
+  .furniture,
+  .marketplace,
+  .grocery,
+  .singleStore,
+  .electronics,
+  .fashion1,
+  .fashion2 {
+    --cz-aspect-ratio: calc(400 / 735 * 100%);
+    max-width: 100%;
+  }
+}
+@media (max-width: 650px) {
+  .fashion1,
+  .fashion2 {
+    --cz-aspect-ratio: calc(398 / 627 * 100%);
+  }
+}
+@media (max-width: 540px) {
+  .fashion1,
+  .fashion2 {
+    --cz-aspect-ratio: calc(398 / 500 * 100%);
+  }
+}
+/* stylelint-enable selector-class-pattern */

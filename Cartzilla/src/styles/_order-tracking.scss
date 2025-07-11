@@ -1,0 +1,158 @@
+// Order Tracking Styles
+
+.timeline {
+  position: relative;
+  padding-left: 2rem;
+
+  &::before {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: .75rem;
+    width: 2px;
+    content: "";
+    background-color: #e9ecef;
+  }
+}
+
+.timeline-item {
+  position: relative;
+  margin-bottom: 1.5rem;
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.timeline-marker {
+  position: absolute;
+  top: .25rem;
+  left: -2rem;
+  width: 1rem;
+  height: 1rem;
+  background-color: #007bff;
+  border: 3px solid #fff;
+  border-radius: 50%;
+  box-shadow: 0 0 0 2px #e9ecef;
+
+  &::before {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: .25rem;
+    height: .25rem;
+    content: "";
+    background-color: #fff;
+    border-radius: 50%;
+    transform: translate(-50%, -50%);
+  }
+}
+
+.timeline-content {
+  padding: 1rem;
+  background-color: #fff;
+  border-radius: .5rem;
+  box-shadow: 0 .125rem .25rem rgba(0, 0, 0, .075);
+
+  h6 {
+    margin-bottom: .5rem;
+    font-size: 1rem;
+    color: #212529;
+  }
+
+  p {
+    margin-bottom: 0;
+    font-size: .875rem;
+    color: #6c757d;
+  }
+}
+
+.timeline-item.completed .timeline-marker {
+  background-color: #28a745;
+}
+
+.timeline-item.current .timeline-marker {
+  background-color: #007bff;
+}
+
+.timeline-item.pending .timeline-marker {
+  background-color: #6c757d;
+}
+
+.timeline-item.cancelled .timeline-marker {
+  background-color: #dc3545;
+}
+
+.order-status {
+  padding: .5rem 1rem;
+  margin-bottom: 1rem;
+  font-size: .875rem;
+  font-weight: 500;
+  border-radius: .375rem;
+}
+
+.order-status.completed {
+  color: #155724;
+  background-color: #d4edda;
+  border: 1px solid #c3e6cb;
+}
+
+.order-status.pending {
+  color: #856404;
+  background-color: #fff3cd;
+  border: 1px solid #ffeaa7;
+}
+
+.order-status.processing {
+  color: #004085;
+  background-color: #cce7ff;
+  border: 1px solid #99d6ff;
+}
+
+.order-status.cancelled {
+  color: #721c24;
+  background-color: #f8d7da;
+  border: 1px solid #f5c6cb;
+}
+
+.order-status.shipped {
+  color: #0c5460;
+  background-color: #d1ecf1;
+  border: 1px solid #bee5eb;
+}
+
+.order-status.delivered {
+  color: #155724;
+  background-color: #d4edda;
+  border: 1px solid #c3e6cb;
+}
+
+.order-details {
+  padding-top: 1rem;
+  margin-top: 2rem;
+  border-top: 1px solid #dee2e6;
+}
+
+.order-details h5 {
+  margin-bottom: 1rem;
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+
+.order-summary {
+  padding: 1rem;
+  margin-bottom: 1rem;
+  background-color: #f8f9fa;
+  border-radius: .375rem;
+}
+
+.order-summary h6 {
+  margin-bottom: .5rem;
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.order-summary p {
+  margin-bottom: .25rem;
+  font-size: .875rem;
+}

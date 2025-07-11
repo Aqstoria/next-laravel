@@ -1,0 +1,441 @@
+[
+  { "cssClass": "ci-activity" },
+  { "cssClass": "ci-airplay" },
+  { "cssClass": "ci-alert-circle" },
+  { "cssClass": "ci-alert-octagon" },
+  { "cssClass": "ci-alert-triangle" },
+  { "cssClass": "ci-align-center" },
+  { "cssClass": "ci-align-justify" },
+  { "cssClass": "ci-align-left" },
+  { "cssClass": "ci-align-right" },
+  { "cssClass": "ci-anchor" },
+  { "cssClass": "ci-aperture" },
+  { "cssClass": "ci-archive" },
+  { "cssClass": "ci-arrow-down-circle" },
+  { "cssClass": "ci-arrow-down-left" },
+  { "cssClass": "ci-arrow-down-right" },
+  { "cssClass": "ci-arrow-down" },
+  { "cssClass": "ci-arrow-left-circle" },
+  { "cssClass": "ci-arrow-left" },
+  { "cssClass": "ci-arrow-right-circle" },
+  { "cssClass": "ci-arrow-right" },
+  { "cssClass": "ci-arrow-up-circle" },
+  { "cssClass": "ci-arrow-up-left" },
+  { "cssClass": "ci-arrow-up-right" },
+  { "cssClass": "ci-arrow-up" },
+  { "cssClass": "ci-at-sign" },
+  {
+    "cssClass": "ci-auto",
+    "tags": ["contrast"]
+  },
+  { "cssClass": "ci-avocado" },
+  { "cssClass": "ci-award" },
+  {
+    "cssClass": "ci-banned",
+    "tags": ["forbidden"]
+  },
+  { "cssClass": "ci-bar-chart" },
+  { "cssClass": "ci-battery" },
+  { "cssClass": "ci-battery-charging" },
+  { "cssClass": "ci-battery-2" },
+  {
+    "cssClass": "ci-bell",
+    "tags": ["notification"]
+  },
+  {
+    "cssClass": "ci-bell-off",
+    "tags": ["notification"]
+  },
+  { "cssClass": "ci-bluetooth" },
+  { "cssClass": "ci-bold" },
+  { "cssClass": "ci-book" },
+  { "cssClass": "ci-book-open" },
+  { "cssClass": "ci-bookmark" },
+  { "cssClass": "ci-box" },
+  { "cssClass": "ci-briefcase" },
+  { "cssClass": "ci-broccoli" },
+  {
+    "cssClass": "ci-bullet",
+    "tags": ["dot"]
+  },
+  {
+    "cssClass": "ci-calendar",
+    "tags": ["date"]
+  },
+  { "cssClass": "ci-camera" },
+  { "cssClass": "ci-camera-off" },
+  { "cssClass": "ci-camera-2" },
+  { "cssClass": "ci-cast" },
+  { "cssClass": "ci-chat" },
+  { "cssClass": "ci-check" },
+  { "cssClass": "ci-check-circle" },
+  { "cssClass": "ci-check-search" },
+  { "cssClass": "ci-check-shield" },
+  { "cssClass": "ci-check-square" },
+  { "cssClass": "ci-chevron-down" },
+  { "cssClass": "ci-chevron-left" },
+  { "cssClass": "ci-chevron-right" },
+  { "cssClass": "ci-chevron-up" },
+  { "cssClass": "ci-chevrons-down" },
+  { "cssClass": "ci-chevrons-left" },
+  { "cssClass": "ci-chevrons-right" },
+  { "cssClass": "ci-chevrons-up" },
+  { "cssClass": "ci-click" },
+  { "cssClass": "ci-clipboard" },
+  {
+    "cssClass": "ci-clock",
+    "tags": ["time"]
+  },
+  { "cssClass": "ci-close" },
+  { "cssClass": "ci-close-circle" },
+  { "cssClass": "ci-close-octagon" },
+  { "cssClass": "ci-close-square" },
+  { "cssClass": "ci-cloud" },
+  { "cssClass": "ci-cloud-off" },
+  { "cssClass": "ci-cloud-drizzle" },
+  { "cssClass": "ci-cloud-lightning" },
+  { "cssClass": "ci-cloud-rain" },
+  { "cssClass": "ci-cloud-snow" },
+  { "cssClass": "ci-code" },
+  { "cssClass": "ci-coffee" },
+  { "cssClass": "ci-columns" },
+  { "cssClass": "ci-command" },
+  { "cssClass": "ci-compass" },
+  {
+    "cssClass": "ci-computer",
+    "tags": ["laptop"]
+  },
+  { "cssClass": "ci-copy" },
+  {
+    "cssClass": "ci-corner-down-left",
+    "tags": ["arrow"]
+  },
+  {
+    "cssClass": "ci-corner-down-right",
+    "tags": ["arrow"]
+  },
+  {
+    "cssClass": "ci-corner-left-down",
+    "tags": ["arrow"]
+  },
+  {
+    "cssClass": "ci-corner-left-up",
+    "tags": ["arrow"]
+  },
+  {
+    "cssClass": "ci-corner-right-down",
+    "tags": ["arrow"]
+  },
+  {
+    "cssClass": "ci-corner-right-up",
+    "tags": ["arrow"]
+  },
+  {
+    "cssClass": "ci-corner-up-left",
+    "tags": ["arrow"]
+  },
+  {
+    "cssClass": "ci-corner-up-right",
+    "tags": ["arrow"]
+  },
+  { "cssClass": "ci-credit-card" },
+  { "cssClass": "ci-crop" },
+  {
+    "cssClass": "ci-crosshair",
+    "tags": ["aim"]
+  },
+  { "cssClass": "ci-database" },
+  {
+    "cssClass": "ci-delete",
+    "tags": ["backspace"]
+  },
+  {
+    "cssClass": "ci-delivery",
+    "tags": ["truck", "car"]
+  },
+  {
+    "cssClass": "ci-delivery-2",
+    "tags": ["truck", "car"]
+  },
+  { "cssClass": "ci-disc" },
+  { "cssClass": "ci-divide" },
+  { "cssClass": "ci-dollar-sign" },
+  { "cssClass": "ci-download" },
+  { "cssClass": "ci-download-cloud" },
+  { "cssClass": "ci-droplet" },
+  { "cssClass": "ci-edit" },
+  { "cssClass": "ci-edit-2" },
+  { "cssClass": "ci-edit-3" },
+  { "cssClass": "ci-external-link" },
+  { "cssClass": "ci-eye" },
+  { "cssClass": "ci-eye-off" },
+  { "cssClass": "ci-fast-forward" },
+  { "cssClass": "ci-feather" },
+  { "cssClass": "ci-file" },
+  { "cssClass": "ci-file-minus" },
+  { "cssClass": "ci-file-plus" },
+  { "cssClass": "ci-file-text" },
+  { "cssClass": "ci-film" },
+  { "cssClass": "ci-filter" },
+  { "cssClass": "ci-flag" },
+  { "cssClass": "ci-folder" },
+  { "cssClass": "ci-folder-minus" },
+  { "cssClass": "ci-folder-plus" },
+  {
+    "cssClass": "ci-food",
+    "tags": ["meal", "cook"]
+  },
+  {
+    "cssClass": "ci-frown",
+    "tags": ["emoji", "sad"]
+  },
+  { "cssClass": "ci-game" },
+  { "cssClass": "ci-gift" },
+  { "cssClass": "ci-globe" },
+  { "cssClass": "ci-gluten-free" },
+  { "cssClass": "ci-grid" },
+  { "cssClass": "ci-grid-2" },
+  { "cssClass": "ci-hanger" },
+  { "cssClass": "ci-hard-drive" },
+  { "cssClass": "ci-hard-drive-2" },
+  { "cssClass": "ci-hash" },
+  { "cssClass": "ci-headphones" },
+  { "cssClass": "ci-headphones-2" },
+  { "cssClass": "ci-heart" },
+  { "cssClass": "ci-heart-filled" },
+  { "cssClass": "ci-help-circle" },
+  { "cssClass": "ci-home" },
+  {
+    "cssClass": "ci-id-card",
+    "tags": ["passport"]
+  },
+  {
+    "cssClass": "ci-image",
+    "tags": ["picture", "photo"]
+  },
+  { "cssClass": "ci-inbox" },
+  { "cssClass": "ci-info" },
+  { "cssClass": "ci-italic" },
+  { "cssClass": "ci-key" },
+  { "cssClass": "ci-layers" },
+  { "cssClass": "ci-layers-2" },
+  { "cssClass": "ci-layout" },
+  {
+    "cssClass": "ci-leaf",
+    "tags": ["eco", "sustainable", "plant"]
+  },
+  {
+    "cssClass": "ci-life-buoy",
+    "tags": ["support"]
+  },
+  { "cssClass": "ci-link" },
+  { "cssClass": "ci-link-2" },
+  { "cssClass": "ci-list" },
+  { "cssClass": "ci-loader" },
+  { "cssClass": "ci-lock" },
+  {
+    "cssClass": "ci-log-in",
+    "tags": ["login", "signin"]
+  },
+  {
+    "cssClass": "ci-log-out",
+    "tags": ["logout", "signout"]
+  },
+  {
+    "cssClass": "ci-mail",
+    "tags": ["envelope", "email"]
+  },
+  { "cssClass": "ci-map" },
+  {
+    "cssClass": "ci-map-pin",
+    "tags": ["location"]
+  },
+  {
+    "cssClass": "ci-maximize",
+    "tags": ["expand", "fullscreen"]
+  },
+  {
+    "cssClass": "ci-maximize-2",
+    "tags": ["expand", "fullscreen"]
+  },
+  {
+    "cssClass": "ci-meh",
+    "tags": ["emoji"]
+  },
+  { "cssClass": "ci-menu" },
+  { "cssClass": "ci-message-circle" },
+  { "cssClass": "ci-message-square" },
+  { "cssClass": "ci-mic" },
+  { "cssClass": "ci-mic-off" },
+  {
+    "cssClass": "ci-minimize",
+    "tags": ["collapse"]
+  },
+  {
+    "cssClass": "ci-minimize-2",
+    "tags": ["collapse"]
+  },
+  { "cssClass": "ci-minus" },
+  { "cssClass": "ci-minus-circle" },
+  { "cssClass": "ci-minus-square" },
+  { "cssClass": "ci-monitor" },
+  { "cssClass": "ci-monitor-2" },
+  { "cssClass": "ci-moon" },
+  { "cssClass": "ci-more-horizontal" },
+  { "cssClass": "ci-more-vertical" },
+  { "cssClass": "ci-mouse-pointer" },
+  { "cssClass": "ci-move" },
+  { "cssClass": "ci-music" },
+  { "cssClass": "ci-navigation" },
+  { "cssClass": "ci-navigation-2" },
+  { "cssClass": "ci-package" },
+  {
+    "cssClass": "ci-paint",
+    "tags": ["color", "fill", "bucket"]
+  },
+  { "cssClass": "ci-paperclip" },
+  { "cssClass": "ci-pause" },
+  { "cssClass": "ci-pause-circle" },
+  { "cssClass": "ci-pen-tool" },
+  { "cssClass": "ci-percent" },
+  { "cssClass": "ci-phone" },
+  { "cssClass": "ci-phone-call" },
+  { "cssClass": "ci-phone-forwarded" },
+  { "cssClass": "ci-phone-incoming" },
+  { "cssClass": "ci-phone-missed" },
+  { "cssClass": "ci-phone-off" },
+  { "cssClass": "ci-phone-outgoing" },
+  { "cssClass": "ci-pie-chart" },
+  { "cssClass": "ci-play" },
+  { "cssClass": "ci-play-circle" },
+  { "cssClass": "ci-play-filled" },
+  { "cssClass": "ci-plus" },
+  { "cssClass": "ci-plus-circle" },
+  { "cssClass": "ci-plus-square" },
+  { "cssClass": "ci-power" },
+  { "cssClass": "ci-powerbank" },
+  { "cssClass": "ci-printer" },
+  { "cssClass": "ci-printer-2" },
+  {
+    "cssClass": "ci-radio",
+    "tags": ["signal"]
+  },
+  { "cssClass": "ci-refresh-ccw" },
+  { "cssClass": "ci-refresh-cw" },
+  { "cssClass": "ci-rewind" },
+  { "cssClass": "ci-rocket" },
+  { "cssClass": "ci-rotate-ccw" },
+  { "cssClass": "ci-rotate-cw" },
+  { "cssClass": "ci-rss" },
+  {
+    "cssClass": "ci-ruler",
+    "tags": ["size"]
+  },
+  { "cssClass": "ci-save" },
+  { "cssClass": "ci-scan" },
+  {
+    "cssClass": "ci-schedule",
+    "tags": ["calendar", "time", "date"]
+  },
+  { "cssClass": "ci-scissors" },
+  { "cssClass": "ci-search" },
+  { "cssClass": "ci-send" },
+  { "cssClass": "ci-server" },
+  {
+    "cssClass": "ci-settings",
+    "tags": ["cog"]
+  },
+  { "cssClass": "ci-share" },
+  { "cssClass": "ci-share-2" },
+  { "cssClass": "ci-shield" },
+  { "cssClass": "ci-shield-off" },
+  { "cssClass": "ci-shopping-bag" },
+  { "cssClass": "ci-shopping-cart" },
+  { "cssClass": "ci-shuffle" },
+  { "cssClass": "ci-sidebar" },
+  { "cssClass": "ci-skip-back" },
+  { "cssClass": "ci-skip-forward" },
+  {
+    "cssClass": "ci-sliders",
+    "tags": ["settings"]
+  },
+  { "cssClass": "ci-smartphone" },
+  { "cssClass": "ci-smartphone-2" },
+  {
+    "cssClass": "ci-smile",
+    "tags": ["emoji", "happy"]
+  },
+  { "cssClass": "ci-sort" },
+  { "cssClass": "ci-speaker" },
+  { "cssClass": "ci-speaker-2" },
+  { "cssClass": "ci-star" },
+  { "cssClass": "ci-star-half" },
+  { "cssClass": "ci-star-filled" },
+  { "cssClass": "ci-stop-circle" },
+  { "cssClass": "ci-sun" },
+  { "cssClass": "ci-sunrise" },
+  { "cssClass": "ci-sunset" },
+  { "cssClass": "ci-table" },
+  { "cssClass": "ci-tablet" },
+  { "cssClass": "ci-tag" },
+  { "cssClass": "ci-target" },
+  { "cssClass": "ci-terminal" },
+  { "cssClass": "ci-thermometer" },
+  {
+    "cssClass": "ci-thumbs-down",
+    "tags": ["dislike"]
+  },
+  {
+    "cssClass": "ci-thumbs-up",
+    "tags": ["like"]
+  },
+  {
+    "cssClass": "ci-ticket",
+    "tags": ["coupon", "voucher"]
+  },
+  {
+    "cssClass": "ci-tool",
+    "tags": ["wrench"]
+  },
+  { "cssClass": "ci-trash" },
+  { "cssClass": "ci-trash-empty" },
+  { "cssClass": "ci-trending-down" },
+  { "cssClass": "ci-trending-up" },
+  { "cssClass": "ci-triangle" },
+  {
+    "cssClass": "ci-truck",
+    "tags": ["delivery"]
+  },
+  { "cssClass": "ci-tv" },
+  { "cssClass": "ci-type" },
+  { "cssClass": "ci-umbrella" },
+  { "cssClass": "ci-unlock" },
+  { "cssClass": "ci-upload" },
+  { "cssClass": "ci-upload-cloud" },
+  { "cssClass": "ci-user" },
+  { "cssClass": "ci-user-check" },
+  { "cssClass": "ci-user-plus" },
+  { "cssClass": "ci-user-x" },
+  { "cssClass": "ci-video" },
+  { "cssClass": "ci-video-off" },
+  { "cssClass": "ci-voicemail" },
+  { "cssClass": "ci-volume" },
+  { "cssClass": "ci-volume-1" },
+  { "cssClass": "ci-volume-2" },
+  { "cssClass": "ci-volume-x" },
+  {
+    "cssClass": "ci-watch",
+    "tags": ["time"]
+  },
+  {
+    "cssClass": "ci-watch-2",
+    "tags": ["time"]
+  },
+  { "cssClass": "ci-wifi" },
+  { "cssClass": "ci-wifi-off" },
+  { "cssClass": "ci-wind" },
+  { "cssClass": "ci-zap" },
+  { "cssClass": "ci-zap-off" },
+  { "cssClass": "ci-zoom-in" },
+  { "cssClass": "ci-zoom-out" }
+]
